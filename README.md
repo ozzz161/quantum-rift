@@ -47,12 +47,12 @@ Quantum Rift продолжает развитие Tech Reborn и Gobber 2. По
 
 | Компонент | Версия |
 | --- | --- |
-| Fabric Loader | 0.15.11 |
-| Fabric API | 0.97.2+1.20.4 |
-| Tech Reborn | 5.10.3 |
-| Reborn Core | 5.10.3 |
-| Gobber 2 | 2.9.9 |
-| Cloth Config API — нужен Gobber 2 | 13.0.121 |
+| [Fabric Loader](https://fabricmc.net/use/installer/) | 0.15.11 |
+| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | 0.97.2+1.20.4 |
+| [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) | 5.10.3 |
+| [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore) | 5.10.3 |
+| [Gobber 2](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric) | 2.9.9 |
+| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) — нужен Gobber 2 | 13.0.121 |
 
 Все файлы выбирайте для **Fabric 1.20.4**. Energy API включён в Quantum Rift, Pugh Tools — в указанный выпуск Gobber 2.
 
@@ -61,3 +61,4 @@ Quantum Rift продолжает развитие Tech Reborn и Gobber 2. По
 ## Установка
 
 Поместите JAR из **Releases** в папку `mods` вместе с обязательными зависимостями. На сервере и у игроков должна стоять одинаковая версия Quantum Rift. При обновлении заменяйте старый JAR и делайте резервную копию мира.
+
